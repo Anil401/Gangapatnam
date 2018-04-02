@@ -8,6 +8,10 @@ public class Helloworld {
 		System.out.println("Hello world Example");
 		
 		System.out.println("Added New Line");
+		
+		System.out.println("Added 2nd line");
+		
+		System.out.println("Added 3rd Line");
 	}
 
 }
