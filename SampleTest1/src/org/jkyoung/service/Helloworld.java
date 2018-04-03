@@ -11,7 +11,12 @@ public class Helloworld {
 		
 		System.out.println("Added 2nd line");
 		
-		System.out.println("Added 3rd 4th 5th Line");
+		System.out.println("Added 3rd 4th 5th Line
+				   
+	        for(int i =0 ; i < 10 ;  i++ )
+				   {
+					   System.out.println("Testing");
+				   }
 	}
 
 }
